@@ -1,0 +1,16 @@
+1. Pandas
+2. Matplotlib
+3. Seaborn
+4. Scikit-learn
+5. Jupyter Notebook
+
+Explanation:
+
+Library       |            Why needed
+Pandas	      |   Data cleaning, grouping, EDA
+Matplotlib    |   Visualizations
+Seaborn       |   Better visualizations (optional but nice)
+Scikit-learn  |	  K-Means Customer Segmentation
+
+
+Jupyter: For running notebooks
