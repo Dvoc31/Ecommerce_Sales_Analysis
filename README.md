@@ -71,7 +71,7 @@ This project covers:
 - *Rich Dad Poor Dad*  
 - *Ikigai*  
 
-(Books category under-performs vs premium electronics.)
+Books category under-performs vs premium electronics.
 
 ---
 
